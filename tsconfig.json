@@ -24,9 +24,8 @@
       }
     ],
     "paths": {
-      "@app/components": [
-        "./src/components/index"
-      ]
+      "@app/components": ["./src/components/index"],
+      "@app/styling": ["./src/styling/index"],
     }
   },
   "include": [
