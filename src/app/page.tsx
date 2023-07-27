@@ -1,8 +1,9 @@
+import { Button } from "@app/components";
+
 export default function Home() {
 	return (
 		<main>
-			Main
+			<Button>Custom button</Button>
 		</main>
-	)
+	);
 }
-
